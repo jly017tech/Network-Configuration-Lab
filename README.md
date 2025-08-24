@@ -2,7 +2,7 @@
 
 <ul>
   <li>Nmap</li>
-  <li>/IPconfiguration</li>
+  <li>IpConfiguration</li>
   
 </ul>
 
